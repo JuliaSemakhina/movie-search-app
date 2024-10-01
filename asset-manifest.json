@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/movie-search-app/static/css/main.2e9d1f4f.css",
-    "main.js": "/movie-search-app/static/js/main.554c335b.js",
+    "main.css": "/movie-search-app/static/css/main.d061c374.css",
+    "main.js": "/movie-search-app/static/js/main.8cf8de6f.js",
     "static/js/453.d150de9e.chunk.js": "/movie-search-app/static/js/453.d150de9e.chunk.js",
     "static/media/kino-13.jpg": "/movie-search-app/static/media/kino-13.50743a2d27e0982bf9e4.jpg",
     "static/media/video.png": "/movie-search-app/static/media/video.87b8117d6148690e925e.png",
@@ -10,12 +10,12 @@
     "static/media/slick.ttf": "/movie-search-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/movie-search-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/movie-search-app/index.html",
-    "main.2e9d1f4f.css.map": "/movie-search-app/static/css/main.2e9d1f4f.css.map",
-    "main.554c335b.js.map": "/movie-search-app/static/js/main.554c335b.js.map",
+    "main.d061c374.css.map": "/movie-search-app/static/css/main.d061c374.css.map",
+    "main.8cf8de6f.js.map": "/movie-search-app/static/js/main.8cf8de6f.js.map",
     "453.d150de9e.chunk.js.map": "/movie-search-app/static/js/453.d150de9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e9d1f4f.css",
-    "static/js/main.554c335b.js"
+    "static/css/main.d061c374.css",
+    "static/js/main.8cf8de6f.js"
   ]
 }
